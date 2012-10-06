@@ -8,5 +8,6 @@ setup(name='Python-SPI',
       author='Taavi Sannik',
       author_email='taavi@kood.ee',
       url='http://www.kood.ee/',
+      license='MIT',
       packages=['spi'],
      )
