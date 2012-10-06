@@ -1,0 +1,1 @@
+from spi import SPI, SPI_MODE_0, SPI_MODE_1, SPI_MODE_2, SPI_MODE_3
